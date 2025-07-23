@@ -1,2 +1,10 @@
-Image_Integrator/
-work/
+/Image_Integrator/
+/work/
+/Intergral_Image.mpf
+/test/Test.cache
+/test/Test.hw
+/test/Test.ip_user_files
+/test/Test.runs
+/test/Test.sim
+/test/Test.xpr
+/Intergral_Image.cr.mti
